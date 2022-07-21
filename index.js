@@ -14,7 +14,7 @@
 <label>User Name :</label>
 <input type="text" name="username" id="username"/>
 <label>Password :</label>
-<input type="password" name="password" id="password"/>
+<input type="text" name="password" id="password"/>
 <input type="button" value="Login" id="submit" onclick="validate()"/>
 </form>
 <span><b class="note">Note : </b>For this demo use following username and password. <br/><b class="valid">User Name : Formget<br/>Password : formget#123</b></span>
